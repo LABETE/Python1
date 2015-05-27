@@ -1,0 +1,15 @@
+O
+ÝsáSc@s2dZdZdZedkr.endS(u8Adding functionality, much easier with refactored code!.cGs+d}x|D]}|t|9}q
+W|S(uØ Sums two lists of integers and multiplies them together
+    
+    >>> list_multiply([3,4],[3,4])
+    49
+    >>> list_multiply([1,2,3,4],[10,20])
+    300
+    >>> list_multiply([4,3,2,1],[50,50],[5,5,5])
+    15000
+    i(usum(ulistsutotalul((u#/users/jvalverd/python1/refactor.pyu
+list_multiplys
+
+cCs%ddl}ddl}|j|S(Ni(udoctesturefactorutestmod(udoctesturefactor((u#/users/jvalverd/python1/refactor.pyu_testsu__main__N(u__doc__u
+list_multiplyu_testu__name__(((u#/users/jvalverd/python1/refactor.pyu<module>s	

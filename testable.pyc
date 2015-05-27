@@ -1,0 +1,12 @@
+O
+3páSc@s2dZdZdZedkr.endS(u*Demonstrates the doctest module in action.cCs|dS(uûReturns the square of a numeric argument.
+    
+    >>> square(3)
+    9
+    >>> square(1000)
+    1000000
+    >>> square("x")
+    Traceback (most recent call last):
+    ...
+    TypeError: unsopported operand type(s) for ** or pow(): 'str' and 'int'
+    i((ux((u#/users/jvalverd/python1/testable.pyusquarescCs%ddl}ddl}|j|S(Ni(udoctestutestableutestmod(udoctestutestable((u#/users/jvalverd/python1/testable.pyu_testsu__main__N(u__doc__usquareu_testu__name__(((u#/users/jvalverd/python1/testable.pyu<module>s		

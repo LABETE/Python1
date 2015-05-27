@@ -1,0 +1,22 @@
+O
+ÏSc
+@sidZedkreedddddddd	d
+eddd
+dddddd	dddndS(cOstddtd|td|tddx0|jD]"\}}t|jd|qCWtdjdx|D]}t|qWd	S(
+uøPrint out a course description.
+    name:           Name of the course
+    instructor:     Name of the instructor
+    *students, ...: List of student names (positional arguments)
+    **staff, ...:   List of additional staff (keyword arguments)
+    u=i(uCourse Name:uInstructor:u-u: u{0:-^40}u registered studentsN(uprintuitemsu
+capitalizeuformat(unameu
+instructorustudentsustaffutitleustudent((u
+courses.pyudescriptions
+
+
+u__main__u
+Python 101uSteve HoldenuGeorgie Peorgieu	Mary Lambu
+Penny Riceu	publisheruO'Reilly School of TechnologyuauthoruPython Software Fundationu
+Django 101uJacob Kaplan-MossuBaa-Baa Blacksheepu
+Mary ContraryuMissy MuffetuPeter PiperuDjango Software FundationueditoruDaniel GreenfeldN(udescriptionu__name__(((u
+courses.pyu<module>s"	
